@@ -1,0 +1,766 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "aDoKduZEI0qZoImXw5Pcn6stY34",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "0KL8I-RrZ6SJqrcZ1DbIVDs6RQ8",
+      "id": "Ou1KRIhw1lM",
+      "snippet": {
+        "publishedAt": "2025-06-03T23:41:01Z",
+        "channelId": "UCRkuUgtDAL4XSU5jB40J_wA",
+        "title": "Grow A Garden OWNER Gave Me A NEW SECRET SEED..",
+        "description": "Today the Owner gave me a secret seed in Roblox Grow A Garden! Make sure you watch the whole video to find out what happens.\n\nFOLTYN PLUSHYS: https://shop.junipercreates.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/p/7351840964799\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own piece of undeveloped real estate along with a virtual toolbox with which to design and build anything — be it a navigable skyscraper, a working helicopter, a giant pinball machine, a multiplayer “Capture the Flag” game or some other, yet-to-be-dreamed-up creation. There is no cost for this first plot of virtual land. By participating and by building cool stuff, ROBLOX members can earn specialty badges as well as ROBLOX dollars (“Robux”). In turn, they can shop the online catalog to purchase avatar clothing and accessories as well as premium building materials, interactive components, and working mechanisms.\n\n#Roblox #foltyn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ou1KRIhw1lM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ou1KRIhw1lM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ou1KRIhw1lM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ou1KRIhw1lM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ou1KRIhw1lM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foltyn",
+        "tags": [
+          "foltyn",
+          "foltyn roblox",
+          "family friendly",
+          "roblox",
+          "roblox foltyn",
+          "foltyn family",
+          "funny",
+          "no swearing",
+          "foltyn family roblox",
+          "roblox foltyn family",
+          "blade ball",
+          "roblox blade ball",
+          "foltyn blade ball",
+          "kid friendly",
+          "owner gave me secret seed",
+          "owner gave me a secret seed",
+          "grow a garden",
+          "grow a garden roblox",
+          "grow a garden owner",
+          "roblox grow a garden",
+          "logging into the grow a garden owner account!",
+          "admin commands in grow a garden"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Grow A Garden OWNER Gave Me A NEW SECRET SEED..",
+          "description": "Today the Owner gave me a secret seed in Roblox Grow A Garden! Make sure you watch the whole video to find out what happens.\n\nFOLTYN PLUSHYS: https://shop.junipercreates.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/p/7351840964799\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own piece of undeveloped real estate along with a virtual toolbox with which to design and build anything — be it a navigable skyscraper, a working helicopter, a giant pinball machine, a multiplayer “Capture the Flag” game or some other, yet-to-be-dreamed-up creation. There is no cost for this first plot of virtual land. By participating and by building cool stuff, ROBLOX members can earn specialty badges as well as ROBLOX dollars (“Robux”). In turn, they can shop the online catalog to purchase avatar clothing and accessories as well as premium building materials, interactive components, and working mechanisms.\n\n#Roblox #foltyn"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT14M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1256690",
+        "likeCount": "29592",
+        "favoriteCount": "0",
+        "commentCount": "5152"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hCISBkAtUe3CtUOC9vYl7mqr5_o",
+      "id": "Nthv4xF_zHU",
+      "snippet": {
+        "publishedAt": "2025-06-03T18:14:46Z",
+        "channelId": "UCzybXLxv08IApdjdN0mJhEg",
+        "title": "The Witcher 4 — Unreal Engine 5 Tech Demo",
+        "description": "CD PROJEKT RED and Epic Games come together at the State of Unreal to show an early development Unreal Engine 5 tech demo for The Witcher 4 — showcasing some of the innovative technology and features that will help bring the game’s open world to life. Keep in mind this isn’t gameplay of The Witcher 4 itself, but a deep dive into the technological foundation of the new Witcher saga.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nthv4xF_zHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nthv4xF_zHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nthv4xF_zHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nthv4xF_zHU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nthv4xF_zHU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Witcher",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Witcher 4 — Unreal Engine 5 Tech Demo",
+          "description": "CD PROJEKT RED and Epic Games come together at the State of Unreal to show an early development Unreal Engine 5 tech demo for The Witcher 4 — showcasing some of the innovative technology and features that will help bring the game’s open world to life. Keep in mind this isn’t gameplay of The Witcher 4 itself, but a deep dive into the technological foundation of the new Witcher saga."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1974659",
+        "likeCount": "103729",
+        "favoriteCount": "0",
+        "commentCount": "10936"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nPJ6VOirkrA7IIev3O7zBZwdvNU",
+      "id": "EgJLZ-05UTo",
+      "snippet": {
+        "publishedAt": "2025-06-03T20:00:07Z",
+        "channelId": "UCf1Q757aKSmywQDQhiTtGFA",
+        "title": "Yungeen Ace - Went Legit Freestyle",
+        "description": "Watch Yungeen Ace's Official Video \"Went Legit Freestyle\". \n\nhttps://yungeen-ace.ffm.to/controlmydestiny\n\nFollow Yungeen Ace:\nhttp://www.instagram.com/yungeenace/​​​​\nhttp://www.facebook.com/yungeenacemusic\nhttp://twitter.com/yungeenace​​​​\nhttp://soundcloud.com/yungeenace​​​​\nhttp://spoti.fi/2qlMNET​​​​\nhttps://apple.co/2mtKyRJ​​​​\n\n\n#Yungeenace #WentLegit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EgJLZ-05UTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EgJLZ-05UTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EgJLZ-05UTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EgJLZ-05UTo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EgJLZ-05UTo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yungeen Ace",
+        "tags": [
+          "yungeen ace",
+          "jacksonville florida",
+          "florida",
+          "jacksonville",
+          "lil durk",
+          "moneybagg yo",
+          "lil baby",
+          "nba youngboy",
+          "youngboy never broke again",
+          "nocap",
+          "jaydayoungan",
+          "all on me",
+          "kodak black",
+          "Bossman Dlow",
+          "YTB Fatt",
+          "Went Legit",
+          "Went Legit Freestyle",
+          "Went Legit Yungeen Ace",
+          "gherbo"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Yungeen Ace - Went Legit Freestyle",
+          "description": "Watch Yungeen Ace's Official Video \"Went Legit Freestyle\". \n\nhttps://yungeen-ace.ffm.to/controlmydestiny\n\nFollow Yungeen Ace:\nhttp://www.instagram.com/yungeenace/​​​​\nhttp://www.facebook.com/yungeenacemusic\nhttp://twitter.com/yungeenace​​​​\nhttp://soundcloud.com/yungeenace​​​​\nhttp://spoti.fi/2qlMNET​​​​\nhttps://apple.co/2mtKyRJ​​​​\n\n\n#Yungeenace #WentLegit"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "288039",
+        "likeCount": "22479",
+        "favoriteCount": "0",
+        "commentCount": "1637"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Pgnm3Og7BUWphV8g4bo78ob6mvY",
+      "id": "90Lq_T2G3Ts",
+      "snippet": {
+        "publishedAt": "2025-06-03T22:45:08Z",
+        "channelId": "UCZ3AmknSJtbzXCeO5a4peoQ",
+        "title": "I Tested Game Breaking Fortnite Maps",
+        "description": "hopefully this video doesn't cause any lawsuits\n👀COOKD (CODE LAZAR 15% OFF) https://cookd.store/\n🧃TRY MY CHUG JUICE (CODE LAZAR 10% OFF)  https://gamersupps.gg/lazar\n\nVOTE FOR YOUR FAVOURITE MAP - https://shorturl.at/zRuFy\n\n\nMASSIVE thank you to every map creator. I am grateful for all the effort!\n\nMilo - https://www.youtube.com/c/akaMilo\nDolphinDom - https://x.com/DolphinDom\nSpankySully - https://fortnite.com/@spankysully \nSun Pirate - https://www.youtube.com/@the_sun_pirate  \nJackson - https://x.com/jkclayton_fn\nFOAD - https://www.fortnite.com/@Foad \nSwifty - https://www.fortnite.com/@swiftystudioa?lang=en-US\nJFT NJayyee - https://x.com/NJayyee\nTom Jank - https://www.youtube.com/@TomJanky \nApollo - https://www.youtube.com/@ApolloXD\nMau - who cares\nWinter - forgettable",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/90Lq_T2G3Ts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/90Lq_T2G3Ts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/90Lq_T2G3Ts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/90Lq_T2G3Ts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/90Lq_T2G3Ts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LazarLazar",
+        "tags": [
+          "fortnite",
+          "lazarbeam",
+          "lazar"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Tested Game Breaking Fortnite Maps",
+          "description": "hopefully this video doesn't cause any lawsuits\n👀COOKD (CODE LAZAR 15% OFF) https://cookd.store/\n🧃TRY MY CHUG JUICE (CODE LAZAR 10% OFF)  https://gamersupps.gg/lazar\n\nVOTE FOR YOUR FAVOURITE MAP - https://shorturl.at/zRuFy\n\n\nMASSIVE thank you to every map creator. I am grateful for all the effort!\n\nMilo - https://www.youtube.com/c/akaMilo\nDolphinDom - https://x.com/DolphinDom\nSpankySully - https://fortnite.com/@spankysully \nSun Pirate - https://www.youtube.com/@the_sun_pirate  \nJackson - https://x.com/jkclayton_fn\nFOAD - https://www.fortnite.com/@Foad \nSwifty - https://www.fortnite.com/@swiftystudioa?lang=en-US\nJFT NJayyee - https://x.com/NJayyee\nTom Jank - https://www.youtube.com/@TomJanky \nApollo - https://www.youtube.com/@ApolloXD\nMau - who cares\nWinter - forgettable"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT22M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "659305",
+        "likeCount": "33991",
+        "favoriteCount": "0",
+        "commentCount": "2801"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dmcE1b3Rfcg-sQMlQ08hxTdlhIA",
+      "id": "hvw6X0SXBZE",
+      "snippet": {
+        "publishedAt": "2025-06-04T02:36:08Z",
+        "channelId": "UC__2_0RJ8XnHt2angfw6S1Q",
+        "title": "Manhunt for father accused of killing his 3 young daughters",
+        "description": "WATCH: Wenatchee police and the Chelan County Sheriff’s Office provided an update Tuesday evening during a joint press conference about the ongoing investigation and manhunt for Travis Decker, who is accused of kidnapping and killing his three daughters. \n\nThe sheriff’s office said 9-year-old Paityn, 8-year-old Evelyn, and 5-year-old Olivia Decker were found dead Monday after a CCSO Forest Service deputy on patrol spotted Decker’s unoccupied 2017 GMC Sierra pickup truck near a campground in Leavenworth. The girls were found after a search of the area, but Decker was nowhere to be found.\n\nDecker is wanted for three counts of first-degree murder and first-degree kidnapping in connection with the girls' deaths. The sheriff’s office said Decker is “former military with extensive training.” The reward for any information that leads to Decker's capture is now up to $20,000.\n\nIt is currently unknown if Decker is armed, but authorities said he should be considered armed and dangerous. Authorities described Decker as white, around 5 feet, 8 inches tall, 190 pounds, with black hair and brown eyes. He was last seen wearing a light-colored shirt and dark shorts.\n\nAnyone with information about Decker’s location is asked to call 911 or send a tip to the CCSO online.\n\nSTORY: https://komonews.com/news/local/manhunt-court-documents-3-wenatchee-sisters-chelan-county-travis-decker-35-years-old-20000-dollar-reward-olivia-evelun-paityn-rock-island-campground \n______________\nStay up to date with our social media:\n\nKOMO News on Facebook: https://www.facebook.com/KOMONews/\nKOMO News on Twitter: https://twitter.com/komonews\nKOMO News on Instagram: http://instagram.com/komo4\nKOMO News on TikTok: https://www.tiktok.com/@komo4seattle\n\nSubscribe to KOMO on YouTube: https://www.youtube.com/channel/UC__2_0RJ8XnHt2angfw6S1Q/?sub_confirmation=1\n\nWatch more top local news stories: https://www.youtube.com/watch?v=G97AyNO_3IE&list=PLZm7uq7_dyY6qhFFIwgXRvYpkaOnZEabc&index=2&t=0s\n\nFor all of the day’s top local and national news, visit http://www.komonews.com/\nWatch our live newscasts and other live video at https://komonews.com/watch\n\nDownload our iOS App: https://itunes.apple.com/us/app/komo-news-mobile/id433508161?mt=8 \n\nDownload our Android App: https://play.google.com/store/apps/details?id=com.newssynergy.komo&hl=en \n\nHave a news tip? Send it directly to us: \n\nEmail us: tips@komonews.com \nCall the Newsroom: 206.404.4000\n\nKOMO News (ABC 4) provides the latest breaking news, sports, weather, traffic, and local event coverage in the Seattle and Western Washington/Puget Sound area, including Bellevue, Redmond, Renton, Kent, Tacoma, Bellingham, Yakima, and surrounding communities.\n\nTune into ARC Seattle Monday-Friday 7-10 a.m. and 10-11 p.m. on KUNS, The CW Network.\n\n#komo #komonews #komo4 #komo4news #seattle #seattlenews #washingtonnews #amberalert #missing #truecrime #wenatchee #live #update #manhunt #chelancounty #pressconference #homicide #crime #news #update #dv #Chelancountysheriffsoffice #911 #family #manhunt \n\nThis video and all Sinclair Broadcast Group content archives of local news and sports coverage are available for your use. For more information, contact us at contentsales@sbgtv.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hvw6X0SXBZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hvw6X0SXBZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hvw6X0SXBZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hvw6X0SXBZE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hvw6X0SXBZE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KOMO News",
+        "tags": [
+          "KOMO",
+          "KOMO News",
+          "News",
+          "Seattle News",
+          "Washington News",
+          "Breaking News",
+          "TV News",
+          "Seattle Local News",
+          "Seattle Sports",
+          "komo4",
+          "seattle",
+          "western washington"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Manhunt for father accused of killing his 3 young daughters",
+          "description": "WATCH: Wenatchee police and the Chelan County Sheriff’s Office provided an update Tuesday evening during a joint press conference about the ongoing investigation and manhunt for Travis Decker, who is accused of kidnapping and killing his three daughters. \n\nThe sheriff’s office said 9-year-old Paityn, 8-year-old Evelyn, and 5-year-old Olivia Decker were found dead Monday after a CCSO Forest Service deputy on patrol spotted Decker’s unoccupied 2017 GMC Sierra pickup truck near a campground in Leavenworth. The girls were found after a search of the area, but Decker was nowhere to be found.\n\nDecker is wanted for three counts of first-degree murder and first-degree kidnapping in connection with the girls' deaths. The sheriff’s office said Decker is “former military with extensive training.” The reward for any information that leads to Decker's capture is now up to $20,000.\n\nIt is currently unknown if Decker is armed, but authorities said he should be considered armed and dangerous. Authorities described Decker as white, around 5 feet, 8 inches tall, 190 pounds, with black hair and brown eyes. He was last seen wearing a light-colored shirt and dark shorts.\n\nAnyone with information about Decker’s location is asked to call 911 or send a tip to the CCSO online.\n\nSTORY: https://komonews.com/news/local/manhunt-court-documents-3-wenatchee-sisters-chelan-county-travis-decker-35-years-old-20000-dollar-reward-olivia-evelun-paityn-rock-island-campground \n______________\nStay up to date with our social media:\n\nKOMO News on Facebook: https://www.facebook.com/KOMONews/\nKOMO News on Twitter: https://twitter.com/komonews\nKOMO News on Instagram: http://instagram.com/komo4\nKOMO News on TikTok: https://www.tiktok.com/@komo4seattle\n\nSubscribe to KOMO on YouTube: https://www.youtube.com/channel/UC__2_0RJ8XnHt2angfw6S1Q/?sub_confirmation=1\n\nWatch more top local news stories: https://www.youtube.com/watch?v=G97AyNO_3IE&list=PLZm7uq7_dyY6qhFFIwgXRvYpkaOnZEabc&index=2&t=0s\n\nFor all of the day’s top local and national news, visit http://www.komonews.com/\nWatch our live newscasts and other live video at https://komonews.com/watch\n\nDownload our iOS App: https://itunes.apple.com/us/app/komo-news-mobile/id433508161?mt=8 \n\nDownload our Android App: https://play.google.com/store/apps/details?id=com.newssynergy.komo&hl=en \n\nHave a news tip? Send it directly to us: \n\nEmail us: tips@komonews.com \nCall the Newsroom: 206.404.4000\n\nKOMO News (ABC 4) provides the latest breaking news, sports, weather, traffic, and local event coverage in the Seattle and Western Washington/Puget Sound area, including Bellevue, Redmond, Renton, Kent, Tacoma, Bellingham, Yakima, and surrounding communities.\n\nTune into ARC Seattle Monday-Friday 7-10 a.m. and 10-11 p.m. on KUNS, The CW Network.\n\n#komo #komonews #komo4 #komo4news #seattle #seattlenews #washingtonnews #amberalert #missing #truecrime #wenatchee #live #update #manhunt #chelancounty #pressconference #homicide #crime #news #update #dv #Chelancountysheriffsoffice #911 #family #manhunt \n\nThis video and all Sinclair Broadcast Group content archives of local news and sports coverage are available for your use. For more information, contact us at contentsales@sbgtv.com"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT19M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "379591",
+        "likeCount": "6624",
+        "favoriteCount": "0",
+        "commentCount": "2245"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MZBv7oznoayVw6Kk1CFF8V-ZsSE",
+      "id": "UcQ1zF8DQkY",
+      "snippet": {
+        "publishedAt": "2025-06-03T20:00:20Z",
+        "channelId": "UCR9Gcq0CMm6YgTzsDxAxjOQ",
+        "title": "Hermitcraft 10: Episode 38 - TAG RETURNS!",
+        "description": "Hermitcraft 10: Episode 38 - TAG RETURNS! Grian is back on the server with a brand new game of TAG! Rules have been set.. but might change as we go along! Should be a lot of fun!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UcQ1zF8DQkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UcQ1zF8DQkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UcQ1zF8DQkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UcQ1zF8DQkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UcQ1zF8DQkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Grian",
+        "tags": [
+          "hermitcraft",
+          "grian hermitcraft",
+          "season 10",
+          "episode 35"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hermitcraft 10: Episode 38 - TAG RETURNS!",
+          "description": "Hermitcraft 10: Episode 38 - TAG RETURNS! Grian is back on the server with a brand new game of TAG! Rules have been set.. but might change as we go along! Should be a lot of fun!"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT32M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "558672",
+        "likeCount": "41940",
+        "favoriteCount": "0",
+        "commentCount": "3565"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UKYp3wPuv7dWnI5Kni4TYilrHg4",
+      "id": "opKd-I9XQL4",
+      "snippet": {
+        "publishedAt": "2025-06-03T19:00:59Z",
+        "channelId": "UCzfScS0MkYf1EHTPFCYt79Q",
+        "title": "Giving Each Other Tattoos!",
+        "description": "https://jakemerch.com\nSOCIAL PAGES\nInstagram: https://www.instagram.com/jakewebber9/\nTwitter: https://www.twitter.com/jakewebber9/\nTik Tok: https://tiktok.com/jakewebber9/\nMusic: https://open.spotify.com/artist/615rzxFYpRYd5gY8eg61NK\nDiscord: https://discord.com/invite/nonames\n\nMY SECOND CHANNEL:\nhttps://www.youtube.com/@JakeWebberLive\n\nSub to Johnnie! @JohnnieGuilbert \n\n\n#Jakewebber",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/opKd-I9XQL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/opKd-I9XQL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/opKd-I9XQL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/opKd-I9XQL4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/opKd-I9XQL4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jake Webber",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Giving Each Other Tattoos!",
+          "description": "https://jakemerch.com\nSOCIAL PAGES\nInstagram: https://www.instagram.com/jakewebber9/\nTwitter: https://www.twitter.com/jakewebber9/\nTik Tok: https://tiktok.com/jakewebber9/\nMusic: https://open.spotify.com/artist/615rzxFYpRYd5gY8eg61NK\nDiscord: https://discord.com/invite/nonames\n\nMY SECOND CHANNEL:\nhttps://www.youtube.com/@JakeWebberLive\n\nSub to Johnnie! @JohnnieGuilbert \n\n\n#Jakewebber"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT30M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "305610",
+        "likeCount": "20989",
+        "favoriteCount": "0",
+        "commentCount": "1867"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8ChNRoAHsudFPndK251ZF3Ln47E",
+      "id": "hn-vdHMjMGA",
+      "snippet": {
+        "publishedAt": "2025-06-03T19:00:51Z",
+        "channelId": "UC9HlWVtENbiMQzVRmnbJxtw",
+        "title": "Meek Mill x G Herbo - SURVIVOR'S GUILT (Official Music Video)",
+        "description": "Meek Mill x G Herbo - SURVIVOR'S GUILT\nListen/Download \"SURVIVOR'S GUILT\": https://meekmill.lnk.to/SurvivorsGuilt\n\nCredits:\nDirector: Semii @hellosemii \nDirector: Whipalo @whipalo   \nDirector: Ben Allen @benjallenn\nProducer: Silvia Durango @siltheplug\n\nDP: Mickey D’Amico @mikey.damico\n1st AC: David Darlington @depthbydavid\nGaffer: Robert Lak @r.lakluster\nKey Grip- Pavlo Varchuk @pav.v.v\nProduction Designer- Daxx Gonzalez @_.daxx._\nArt Director- Sachie Hara \nSet dresser- Sofia Paranov \nSet Dresser - Skyler Cole \nLead Pa: Steven Skilling @realskillz__\nPa: Julio Durango @durangokidproductions@gmail.com  \nPa: Jaylin Shack @skyrocket_jay\nPa: Sean Hatten @seanhatten_\nPa: Frankie Picon @fbomb__\nBTS: M3 Production @shotbymylesMccoy\nCasting Director: Victoria Lee @victor1a144\n\nPost Production \nEditor: Ethan Santana @iheartxantan\nVFX: Mosh Visuals @moshvisuals / XYZ Studios @drisv2\nColorist: Loren James White @lorenjameswhite\nTitle Designer: SB @Sblngr \n\nProduction Company: Brutally Honest @brutallyhonestfilm / Heir Aura @heiraura\n\nSubscribe for more official content from Meek Mill:\nhttps://MeekMill.lnk.to/subscribe\n\nFollow Meek Mill\nOfficial Website: https://MeekMill.lnk.to/Official\nTwitter: https://MeekMill.lnk.to/Twitter\nInstagram : https://MeekMill.lnk.to/Instagram\nTiktok: https://MeekMill.lnk.to/tiktok\nFacebook: https://MeekMill.lnk.to/Facebook\nGIPHY: https://MeekMill.lnk.to/GIPHY\n\nListen to Meek Mill\nApple Music : https://MeekMill.lnk.to/Apple\nSpotify : https://MeekMill.lnk.to/Spotify\nAmazon: https://MeekMill.lnk.to/AmazonMusic\nAudiomack: https://MeekMill.lnk.to/Audiomack\nTidal: https://meekmill.lnk.to/Tidal\nPandora: https://MeekMill.lnk.to/Pandora\nYouTube: https://MeekMill.lnk.to/YouTube\n\nThe official YouTube channel of Meek Mill. Subscribe for the latest music videos, performances, and more.\n\n#meekmill #gherbo #survivorsguilt  #DreamChasers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hn-vdHMjMGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hn-vdHMjMGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hn-vdHMjMGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hn-vdHMjMGA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hn-vdHMjMGA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Meek Mill",
+        "tags": [
+          "meek mill",
+          "meek",
+          "mill",
+          "hip hop",
+          "rap",
+          "atlantic",
+          "atlantic records",
+          "wins & losses",
+          "dreams worth more than money",
+          "stay woke",
+          "dangerous",
+          "champions",
+          "championship",
+          "Intro",
+          "trauma",
+          "whats free",
+          "Respect the game",
+          "splash warning",
+          "going bad",
+          "almost slipped",
+          "expensive pain",
+          "sharing locations",
+          "EXPENSIVE PAIN",
+          "MEEK NEW ALBUM",
+          "NEW MEEK"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Meek Mill x G Herbo - SURVIVOR'S GUILT (Official Music Video)",
+          "description": "Meek Mill x G Herbo - SURVIVOR'S GUILT\nListen/Download \"SURVIVOR'S GUILT\": https://meekmill.lnk.to/SurvivorsGuilt\n\nCredits:\nDirector: Semii @hellosemii \nDirector: Whipalo @whipalo   \nDirector: Ben Allen @benjallenn\nProducer: Silvia Durango @siltheplug\n\nDP: Mickey D’Amico @mikey.damico\n1st AC: David Darlington @depthbydavid\nGaffer: Robert Lak @r.lakluster\nKey Grip- Pavlo Varchuk @pav.v.v\nProduction Designer- Daxx Gonzalez @_.daxx._\nArt Director- Sachie Hara \nSet dresser- Sofia Paranov \nSet Dresser - Skyler Cole \nLead Pa: Steven Skilling @realskillz__\nPa: Julio Durango @durangokidproductions@gmail.com  \nPa: Jaylin Shack @skyrocket_jay\nPa: Sean Hatten @seanhatten_\nPa: Frankie Picon @fbomb__\nBTS: M3 Production @shotbymylesMccoy\nCasting Director: Victoria Lee @victor1a144\n\nPost Production \nEditor: Ethan Santana @iheartxantan\nVFX: Mosh Visuals @moshvisuals / XYZ Studios @drisv2\nColorist: Loren James White @lorenjameswhite\nTitle Designer: SB @Sblngr \n\nProduction Company: Brutally Honest @brutallyhonestfilm / Heir Aura @heiraura\n\nSubscribe for more official content from Meek Mill:\nhttps://MeekMill.lnk.to/subscribe\n\nFollow Meek Mill\nOfficial Website: https://MeekMill.lnk.to/Official\nTwitter: https://MeekMill.lnk.to/Twitter\nInstagram : https://MeekMill.lnk.to/Instagram\nTiktok: https://MeekMill.lnk.to/tiktok\nFacebook: https://MeekMill.lnk.to/Facebook\nGIPHY: https://MeekMill.lnk.to/GIPHY\n\nListen to Meek Mill\nApple Music : https://MeekMill.lnk.to/Apple\nSpotify : https://MeekMill.lnk.to/Spotify\nAmazon: https://MeekMill.lnk.to/AmazonMusic\nAudiomack: https://MeekMill.lnk.to/Audiomack\nTidal: https://meekmill.lnk.to/Tidal\nPandora: https://MeekMill.lnk.to/Pandora\nYouTube: https://MeekMill.lnk.to/YouTube\n\nThe official YouTube channel of Meek Mill. Subscribe for the latest music videos, performances, and more.\n\n#meekmill #gherbo #survivorsguilt  #DreamChasers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "189634",
+        "likeCount": "16053",
+        "favoriteCount": "0",
+        "commentCount": "1071"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jOACVdD6Teso24j0ctlj0Ai-LWI",
+      "id": "lGqC0ny_kOI",
+      "snippet": {
+        "publishedAt": "2025-06-04T01:00:06Z",
+        "channelId": "UCxgn78SKHctkkK3QqThMgEw",
+        "title": "\"SECRET LOVERS\" EP. 1 | THE LESBIAN HOMIE 4",
+        "description": "Don't want to wait? Watch the entire season RIGHT NOW at http://www.biggjah.com\n\nNever underestimate the reputation of BlueChew. First month FREE with code JAH20 at https://try.bluechew.com/jah20\n\nEPISODE 1: “Secret Lovers”\n\nDespite a couple close calls, Reese and E manage to keep their situationship hidden. Sam starts to recognize a change in Kris. Nadia rejects an offer from Rob. Natasha searches for the right time to break the good news to Bruce.\n\nWatch EPISODE 2: https://youtu.be/oLr9YTvtcG4\n\nTHE LESBIAN HOMIE 4\n\nThree months have passed, and E and Reese are entangled in a secret situationship neither of them can fully define. As Reese wrestles with ending it before things spiral, Bruce believes he's finally free of the drama that comes with the lesbian homies—until he finds himself caught in a new love triangle that tests his integrity. With his closest friends distracted by their own romantic chaos, Bruce leans on an unexpected ally... only to end up right back where he started.\n\nProduced by Dirty Chucks Entertainment\nCreated & Directed by Jahdai \"Bigg Jah\" Pickett\nWritten by Jahdai Pickett, Jae The Fade, Dean Wilson & Kenn Edwin\nProducer/1st AD: Lexx Truss \nDirector of Photography: Ryan Spencer\nEditor: George Lambriodes\nMusic Supervisor/Composer: BARii\nStarring: Bigg Jah, Essence Cash, Stephanie Nelson aka Persephanii, GWayne, Ms. Sade, Kassandra Lee, Jatiana Smith, Ashley Chestang, Marche' Howell, Tim Willy, Kraig Smith, Lisa Yaro, Kenn Edwin, Lonye Nicole, Cornell Ross, Albreanna Watson, Nilla Allin, Jeff Pulliam, Anthony Darrell, Carmen Carter, Britney \"Ayona\" Clemons, Cortney Elise, Jasmyn Carter, Mina Quarterman, Kristen Hurt, Maxine Holley, Malik Bazille, Clayton Thomas, and IzzyDre.\n\nSongs featured in the episode:\n\"Falsetto\" by @callmebarii feat Twigg Martin\n\"After This Song\" by BARii  \n\"Glorified Side\" by BARii \n\n#biggjah #thelesbianhomie",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lGqC0ny_kOI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lGqC0ny_kOI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lGqC0ny_kOI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lGqC0ny_kOI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lGqC0ny_kOI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bigg Jah",
+        "tags": [
+          "bigg jah",
+          "2damax",
+          "hood good comedy",
+          "sketch comedy",
+          "lesbian homie",
+          "when the whole crew is stupid",
+          "tiberius",
+          "roommate pays all the bills",
+          "minks",
+          "YAMS",
+          "persephanii",
+          "exactly e"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "\"SECRET LOVERS\" EP. 1 | THE LESBIAN HOMIE 4",
+          "description": "Don't want to wait? Watch the entire season RIGHT NOW at http://www.biggjah.com\n\nNever underestimate the reputation of BlueChew. First month FREE with code JAH20 at https://try.bluechew.com/jah20\n\nEPISODE 1: “Secret Lovers”\n\nDespite a couple close calls, Reese and E manage to keep their situationship hidden. Sam starts to recognize a change in Kris. Nadia rejects an offer from Rob. Natasha searches for the right time to break the good news to Bruce.\n\nWatch EPISODE 2: https://youtu.be/oLr9YTvtcG4\n\nTHE LESBIAN HOMIE 4\n\nThree months have passed, and E and Reese are entangled in a secret situationship neither of them can fully define. As Reese wrestles with ending it before things spiral, Bruce believes he's finally free of the drama that comes with the lesbian homies—until he finds himself caught in a new love triangle that tests his integrity. With his closest friends distracted by their own romantic chaos, Bruce leans on an unexpected ally... only to end up right back where he started.\n\nProduced by Dirty Chucks Entertainment\nCreated & Directed by Jahdai \"Bigg Jah\" Pickett\nWritten by Jahdai Pickett, Jae The Fade, Dean Wilson & Kenn Edwin\nProducer/1st AD: Lexx Truss \nDirector of Photography: Ryan Spencer\nEditor: George Lambriodes\nMusic Supervisor/Composer: BARii\nStarring: Bigg Jah, Essence Cash, Stephanie Nelson aka Persephanii, GWayne, Ms. Sade, Kassandra Lee, Jatiana Smith, Ashley Chestang, Marche' Howell, Tim Willy, Kraig Smith, Lisa Yaro, Kenn Edwin, Lonye Nicole, Cornell Ross, Albreanna Watson, Nilla Allin, Jeff Pulliam, Anthony Darrell, Carmen Carter, Britney \"Ayona\" Clemons, Cortney Elise, Jasmyn Carter, Mina Quarterman, Kristen Hurt, Maxine Holley, Malik Bazille, Clayton Thomas, and IzzyDre.\n\nSongs featured in the episode:\n\"Falsetto\" by @callmebarii feat Twigg Martin\n\"After This Song\" by BARii  \n\"Glorified Side\" by BARii \n\n#biggjah #thelesbianhomie"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT29M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "256723",
+        "likeCount": "18157",
+        "favoriteCount": "0",
+        "commentCount": "933"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uTAf9l0B3zvFwcngJSPW4dCcfgU",
+      "id": "11vcs6jUK-g",
+      "snippet": {
+        "publishedAt": "2025-06-04T00:00:07Z",
+        "channelId": "UCBvlfsQ1UBWLn2te8sJbobA",
+        "title": "EBK Jaaybo - Top Rank Gz (ft. EBK Pig & EBK Leebo) [Official Music Video]",
+        "description": "#TOPRANKGZ - OUT ON ALL PLATFORMS\nSocials:\n      Instagram |  https://www.instagram.com/ebkjaaybo\n           Tik Tok |  https://www.tiktok.com/@ebkjaaybo_\n            Twitch | https://www.twitch.tv/nightingalejaaybo\nVlog Channel | https://youtube.com/@ebkjaaybovlog\n\nFor business inquiries :\nEmail : JaymaniGormanebk@gmail.com \n\nStreaming Platforms:\n Apple Music | https://music.apple.com/us/artist/ebk-jaaybo/1546909526 \n          Spotify | https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX\n  Soundcloud | https://on.soundcloud.com/UyZFs\n\n#ebkjaaybo #toprankgz #rap",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/11vcs6jUK-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/11vcs6jUK-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/11vcs6jUK-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/11vcs6jUK-g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/11vcs6jUK-g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EBK Jaaybo",
+        "tags": [
+          "ebk jaaybo",
+          "ebk",
+          "ebk young joc",
+          "young slobe",
+          "ebk tootie",
+          "ebk jublockshotta",
+          "ebk osama",
+          "ebk leebo",
+          "ebk lil play",
+          "daboii",
+          "sugar hill ddot",
+          "ebk jaaybo nojumper",
+          "ebkjaaybo",
+          "ebkjaaybo nojumper",
+          "ebkjaaybo no jumper",
+          "ebkjaaybo adam22",
+          "ebk jaaybo adam22",
+          "jaaybo",
+          "boogieman",
+          "ebkjaaybo boogieman",
+          "boogieman tiktok",
+          "the biggest g",
+          "first day out",
+          "jerryphd",
+          "fuck everybody",
+          "ebk jaaybo fuck everybody",
+          "fuck everybody video",
+          "homebody",
+          "ebk video",
+          "plaqueboymax",
+          "top rank gz",
+          "ebk hotboiiz"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "EBK Jaaybo - Top Rank Gz (ft. EBK Pig & EBK Leebo) [Official Music Video]",
+          "description": "#TOPRANKGZ - OUT ON ALL PLATFORMS\nSocials:\n      Instagram |  https://www.instagram.com/ebkjaaybo\n           Tik Tok |  https://www.tiktok.com/@ebkjaaybo_\n            Twitch | https://www.twitch.tv/nightingalejaaybo\nVlog Channel | https://youtube.com/@ebkjaaybovlog\n\nFor business inquiries :\nEmail : JaymaniGormanebk@gmail.com \n\nStreaming Platforms:\n Apple Music | https://music.apple.com/us/artist/ebk-jaaybo/1546909526 \n          Spotify | https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX\n  Soundcloud | https://on.soundcloud.com/UyZFs\n\n#ebkjaaybo #toprankgz #rap"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "152932",
+        "likeCount": "11549",
+        "favoriteCount": "0",
+        "commentCount": "809"
+      }
+    }
+  ],
+  "nextPageToken": "CAoQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 10
+  }
+}

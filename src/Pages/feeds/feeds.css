@@ -1,0 +1,51 @@
+.cards {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    justify-content: space-evenly;
+}
+
+.card {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.card img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.card h1 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.card h3 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.card p {
+    font-size: 14px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.card span {
+    font-size: 13px;
+    font-weight: 500;
+    color: #343434;
+}
+
+.card .card-info {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}

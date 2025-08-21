@@ -1,0 +1,79 @@
+/* setting style for our top navber */
+nav {
+    padding: 10px 2%;
+    justify-content: space-between;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.left .menu_icon {
+    margin-right: 20px;
+    width: 25px;
+    height: 25px;
+}
+
+.center {
+    position: relative;
+}
+
+.center .auto_complete {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    position: absolute;
+    width: 100%;
+    background-color: rgb(254, 252, 255);
+    border-radius: 10px;
+    padding: 10px;
+    top: 40px;
+    box-shadow: -2px 5px 14px -7px rgba(0, 0, 0, 0.49);
+}
+
+.center .auto_complete .autoComplete_item {
+    margin-top: 4px;
+    font-size: 16px;
+    color: #383838;
+    cursor: pointer;
+}
+
+.left .logo_icon {
+    width: 135px;
+}
+
+.center .search_box {
+    display: flex;
+    align-items: center;
+    border: solid 1px #898989;
+    border-radius: 20px;
+    padding: 6px 12px;
+}
+
+.center .search_box input {
+    display: flex;
+    align-items: center;
+    border: none;
+    outline: none;
+    width: 100%;
+    font-size: 16px;
+    background-color: transparent;
+    width: 400px;
+}
+
+.center .search_box img {
+    width: 18px;
+}
+
+.right img {
+    width: 28px;
+    height: 28px;
+    margin-right: 25px;
+}
+
+.right .user-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 0;
+}

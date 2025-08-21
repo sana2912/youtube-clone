@@ -1,0 +1,142 @@
+.content-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.content-container iframe {
+    width: 100%;
+    height: 74vh;
+    border-radius: 10px;
+}
+
+/* for publisher section styling */
+.content-container .publisher {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.content-container .publisher .publisher-info {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background-color: transparent;
+}
+
+.content-container .publisher .publisher-action {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+/* public class name */
+.action-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    margin: 0 5px;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+    height: 40px;
+}
+
+.action-btn {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+
+.user-accout {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+}
+
+.content-container .publisher .publisher-info img {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+.author {
+    font-size: 1.1rem;
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+
+.follow-button {
+    background-color: #000000;
+    color: rgb(255, 254, 254);
+}
+
+.action-button:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+/* for content description styling */
+.content-container .content-info {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #e7e7e7;
+    border-radius: 8px;
+}
+
+.content-container .content-info h3 {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+.content-container .content-info .description {
+    height: 40px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.description-expanded {
+    height: 40px;
+    height: fit-content;
+    cursor: pointer;
+}
+
+span {
+    font-size: 16px;
+}
+
+/* for comment setting styling */
+
+.content-container .comment-section .comment {
+    margin: 25px 0;
+}
+
+.content-container .comment-section .comment h3 {
+    font-size: 1.2em;
+    margin: 20px 0;
+}
+
+.content-container .comment-section .comment .head-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.content-container .comment-section .comment .comment-action {
+    margin-top: 10px;
+    display: flex;
+    gap: 5px;
+}
+
+.action-btn-cm {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+}

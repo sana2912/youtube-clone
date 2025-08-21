@@ -1,0 +1,68 @@
+.side-bar {
+    width: 15%;
+    height: 100vh;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 60px 2%;
+}
+
+.navigate-link {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.side-link {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    gap: 14px;
+    width: fit-content;
+}
+
+.side-bar hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.side-link img {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* side-link.active means if "side-link" class contain "active" */
+.side-link.active {
+    border-bottom: #000000 3px solid;
+    padding-bottom: 3px;
+}
+
+/* this section for setting callaps side-bar */
+.side-callaps {
+    width: 7%;
+    height: 100vh;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 60px 2%;
+}
+
+
+.side-callaps hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 25px;
+}
+
+.side-callaps .navigate-link .side-link p {
+    display: none;
+}
+
+.hide {
+    display: none;
+}

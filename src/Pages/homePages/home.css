@@ -1,0 +1,13 @@
+.container {
+    width: 85%;
+    display: flex;
+    margin-left: 15%;
+    padding: 0 2%;
+}
+
+.large-container {
+    width: 93%;
+    display: flex;
+    margin-left: 7%;
+    padding: 0 2%;
+}
