@@ -1,12 +1,50 @@
-# React + Vite
+# Simple React Project (YouTube Clone) **see this service :** [twice tegarm backend](https://twice-tagram-backend.onrender.com)  
+# **see this service :** [twice tegarm backend](https://sana-youtube-clone.netlify.app/)  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple YouTube clone built with **JavaScript**, **React**, and **CSS**. This project demonstrates how to create a responsive video platform UI, fetching content directly from YouTube using the official API.
 
-Currently, two official plugins are available:
+[Live Demo on Netlify](https://sana-youtube-clone.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Home Page**: Displays a feed of trending or popular YouTube videos.
+- **Category Feed**: Browse and display videos by selected categories.
+- **Search Bar**: Search for videos and content on YouTube.
+- **Individual Video Page**:
+  - Displays the selected video.
+  - Shows video information (title, channel, views, etc.).
+  - Includes related videos feed.
+  - Shows comments section.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technology Stack
+
+- **Frontend**: React, JavaScript, CSS
+- **APIs**: YouTube Data API (via [Google Developer Console](https://console.developers.google.com/))
+- **No custom backend**: All data is fetched live from YouTube.
+
+## Getting Started
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/sana2912/youtube-clone.git
+    cd youtube-clone
+    ```
+2. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+3. **Run the development server:**
+    ```bash
+    npm run dev
+    ```
+
+## Configuration
+
+You will need a YouTube Data API key from Google Developer Console.  
+Create a `.env` file and add your API key:
+```
+REACT_APP_YOUTUBE_API_KEY=your_api_key_here
+```
+
+**Note:**  
+This project is for educational/demo purposes. All video and content data is fetched from YouTube using the official API; no user data is stored.
