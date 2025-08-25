@@ -61,22 +61,7 @@ const channel_fetching = async (channelID) => {
     catch (err) { console.error("Error fetching content:", err); }
 }
 
-const search_autocomplete = async (search_input) => {
-    // arr_return
-    const fetch_url = `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=${search_input}&key=${apiKey}`;
-    try {
-        const search_items = await get_arr(fetch_url);
-        const data = await search_items.map((item) => {
-            const title_data = item.snippet.title;
-            return title_data;
-        })
-        return data;
-    }
-    catch (err) { console.error("Error fetching feeds:", err); }
-}
-
 export {
-    search_autocomplete,
     feed_fetching,
     video_fetching,
     comments_fetching,
