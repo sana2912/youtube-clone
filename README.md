@@ -1,4 +1,4 @@
-# Simple React Project (YouTube Clone) **see this service :** [twice tegarm backend](https://twice-tagram-backend.onrender.com)  
+# Simple React Project (YouTube Clone)
 # **see this service :** [twice tegarm backend](https://sana-youtube-clone.netlify.app/)  
 
 A simple YouTube clone built with **JavaScript**, **React**, and **CSS**. This project demonstrates how to create a responsive video platform UI, fetching content directly from YouTube using the official API.
